@@ -11,7 +11,7 @@ Author URI: https://www.seomix.fr
 Contributors: juliobox, secupress
 Text Domain: user-name-security
 Requires at least: 4.6
-Tested up to: 6.6
+Tested up to: 6.8
 License: GPL v3
 
 User Name Security - SeoMix

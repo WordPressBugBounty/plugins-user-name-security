@@ -12,7 +12,7 @@ Donate link: https://www.seomix.fr/dons/
 Contributors: Confridin, juliobox, secupress, seomix
 Requires at least: 4.6
 Text Domain: user-name-security
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.2.4
 Stable tag: trunk
 License: GPL v3
